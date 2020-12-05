@@ -24,8 +24,8 @@ jobs:
             const { execSync } = require('child_process');
             const diff = execSync('git diff README.md');
             let body = 'no diff';
-            if (diff !== '') {
-              body = '```diff\n' + diff + '```';
+            if (diff.toString() !== '') {
+              body = '```diff\n' + diff.toString() + '```';
             }
             github.issues.createComment({
               issue_number: context.issue.number,
