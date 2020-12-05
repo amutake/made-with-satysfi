@@ -10,11 +10,11 @@ List of documents made with SATySFi.
 | [yabaitech.tokyo vol.4](https://yabaitech-tokyo.booth.pm/items/1888547)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2020-03-07   |
 | [OS Girls 2](https://hikalium.booth.pm/items/1576135)                                                | [hikalium](https://hikalium.com/)                    | 2019-09-22   |
 | [yabaitech.tokyo vol.3](https://yabaitech-tokyo.booth.pm/items/1557104)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2019-09-22   |
-| [進捗大陸06](https://shinchoku-tairiku.github.io/web/books/tairiku07/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2019-09-22   |
+| [進捗大陸06](https://shinchoku-tairiku.github.io/web/books/tairiku06/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2019-09-22   |
 | [ニポリ 第16号](https://nipori.gitlab.io/nipori/index.html#nipori2019)                               | [開成学園パズル研究部](https://nipori.gitlab.io/)    | 2019-09-21   |
 | [OS Girls](https://hikalium.booth.pm/items/1317230)                                                  | [hikalium](https://hikalium.com/)                    | 2019-04-14   |
 | [yabaitech.tokyo vol.2](https://yabaitech-tokyo.booth.pm/items/1304326)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2019-04-14   |
-| [進捗大陸05](https://shinchoku-tairiku.github.io/web/books/tairiku07/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2019-04-14   |
+| [進捗大陸05](https://shinchoku-tairiku.github.io/web/books/tairiku05/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2019-04-14   |
 | [Ruby で好みの日本酒分類をお手伝い ~ 準備編 ~](https://techbookfest.org/event/tbf05/circle/55000001) | [katsuyoshi](https://katsyoshi.org/)                 | 2018-10-08   |
 | [The SATySFibook](https://gfngfn.booth.pm/items/1127224)                                             | [Takashi SUWA](https://github.com/gfngfn)            | 2018-10-08   |
 | [yabaitech.tokyo vol.1](https://yabaitech-tokyo.booth.pm/items/1041379)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2018-10-08   |
