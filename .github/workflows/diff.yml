@@ -23,7 +23,10 @@ jobs:
           script: |
             const { execSync } = require('child_process');
             const diff = execSync('git diff README.md');
-            const body = '```diff\n' + diff + '```';
+            let body = 'no diff';
+            if (diff !== '') {
+              body = '```diff\n' + diff + '```';
+            }
             github.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
