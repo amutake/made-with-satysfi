@@ -1,8 +1,14 @@
 Made With SATySFi
-==============================
+=================
 
 List of documents made with SATySFi.
 
 %%%TABLE%%%
 
-order by published_at desc, title.
+(order by published_at desc, title)
+
+Contribution
+------------
+
+1. Edit [data.csv](./data.csv)
+1. Create new Pull Request
