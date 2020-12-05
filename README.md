@@ -1,5 +1,5 @@
 Made With SATySFi
-==============================
+=================
 
 List of documents made with SATySFi.
 
@@ -19,4 +19,10 @@ List of documents made with SATySFi.
 | [The SATySFibook](https://gfngfn.booth.pm/items/1127224)                                             | [Takashi SUWA](https://github.com/gfngfn)            | 2018-10-08   |
 | [yabaitech.tokyo vol.1](https://yabaitech-tokyo.booth.pm/items/1041379)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2018-10-08   |
 
-order by published_at desc, title.
+(order by published_at desc, title)
+
+Contribution
+------------
+
+1. Edit [data.csv](./data.csv)
+1. Create new Pull Request
