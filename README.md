@@ -5,6 +5,7 @@ List of documents made with SATySFi.
 
 | title                                                                                                | author                                               | published_at |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
+| [進捗大陸08](https://shinchoku-tairiku.github.io/web/books/tairiku08/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2020-12-26   |
 | [yabaitech.tokyo vol.5](https://techbookfest.org/product/5131487676465152)                           | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2020-09-12   |
 | [進捗大陸07](https://shinchoku-tairiku.github.io/web/books/tairiku07/)                               | [進捗大陸](https://shinchoku-tairiku.github.io/web/) | 2020-09-12   |
 | [yabaitech.tokyo vol.4](https://yabaitech-tokyo.booth.pm/items/1888547)                              | [yabaitech.tokyo](https://yabaitech.tokyo/)          | 2020-03-07   |
